@@ -17,8 +17,10 @@ This as an fine tune of my ah flipper from [UnrealClient](https://github.com/Unr
      Manual mode (More Profit)
     
 # misc
-- Features
-     - ssss
+- GUI Interface
+- Custom Hotkeys
+- Chat Overlay 
+- Webhook Support
 
 # Setup
 ## Discord Webhook Intergration
