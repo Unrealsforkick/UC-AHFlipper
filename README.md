@@ -2,28 +2,10 @@
 
 ![Unreal](https://github.com/Unrealsforkick/UnrealClient/blob/main/assets/245837716-a212304a-055e-4e1a-8a92-3b53bc4201ab.gif)
 # IMPORTANT
-All previous issues should be solved with the latest release 
+This as an fine tune of my ah flipper from UnrealClient
 
 # Features
 #### Auto Harp/Exprimantel table ( `Ping Adjustable` )
-- Combat Xp/Drops
-    - Hub zombies (starter)
-    - Zealots/Summoning eye's
-- Slayer
-    - Rev Slayer (Drops/XP)
-    - Taruntla Slayer (XP)
-    - Sven Slayer (Drops/XP)
-    - ! Newest Blaze Slayer (Drops/XP)
-- Farming
-    - Wheat/Potatoe/Carrots 
-    - Netherwart
-    - Pumpking/Melon
-    - Auto visitors / Auto Pests
-- F7 Features
-    - F*CK Diorite
-    - M7 decoy route
-    - Ghost Pickaxe/Blocks (keybind)
-    - Create Own Decoy route's
 #### AH Flipper  ( `100K - 100M+ ` )
      Auto Mode (Webhook)
      Manual mode (More Profit)
