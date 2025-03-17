@@ -28,8 +28,6 @@ This as an fine tune of my ah flipper from [UnrealClient](https://github.com/Unr
    2. Failsafe/Auto close game `F4`
    3. Optional: Change Proxie for less ping (Faster Snips)
 
-   **Optional: Change the preset of the menu**
-
    **If you have too much money use a custom proxie**
 
 ### If everything works for you please ⭐ this repo to support it ❤️
