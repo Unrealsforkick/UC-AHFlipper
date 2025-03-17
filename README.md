@@ -6,6 +6,10 @@ This as an fine tune of my ah flipper from UnrealClient
 
 # Features
 #### AH Flipper  ( `100K - 100M+ ` )
+     Max Profit (blatent mode)
+     MultiMC for more instances 
+     Price region 
+     Ping adjustable (eu regions)
      Auto Mode (Webhook)
      Manual mode (More Profit)
     
