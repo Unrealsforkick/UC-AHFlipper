@@ -17,7 +17,7 @@ This as an fine tune of my ah flipper from [UnrealClient](https://github.com/Unr
      Manual mode (More Profit)
     
 # misc
--Features
+- Features
      - ssss
 
 # Setup
