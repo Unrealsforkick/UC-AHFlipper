@@ -5,7 +5,6 @@
 This as an fine tune of my ah flipper from UnrealClient
 
 # Features
-#### Auto Harp/Exprimantel table ( `Ping Adjustable` )
 #### AH Flipper  ( `100K - 100M+ ` )
      Auto Mode (Webhook)
      Manual mode (More Profit)
