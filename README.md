@@ -26,8 +26,7 @@ This as an fine tune of my ah flipper from [UnrealClient](https://github.com/Unr
 ## Mod/Client
    1. Open with `G` Or `/uc`
    2. Failsafe/Auto close game `F4`
-   3. Optional: Change Menu to your liking
-   4. Hydra failsafe of/on
+   3. Optional: Change Proxie for less ping (Faster Snips)
 
    **Optional: Change the preset of the menu**
 
