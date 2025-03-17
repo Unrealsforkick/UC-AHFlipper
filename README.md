@@ -6,6 +6,9 @@ This as an fine tune of my ah flipper from [UnrealClient](https://github.com/Unr
 
 # Features
 #### AH Flipper  ( `100K - 100M+ ` )
+     Profit Calculator
+     instant Buy Sniper
+     Customizable Price Thresholds
      Max Profit (blatent mode)
      MultiMC for more instances 
      Price region 
